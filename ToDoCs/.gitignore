@@ -1,0 +1,7 @@
+bin/
+obj/
+*.user
+*.sln.ide
+*.suo
+*.userprefs
+*.csproj.user
